@@ -1,13 +1,4 @@
 # MyFirstRepo
-Stroke-Prediction-ML/
-│
-├── data/                   # Dataset CSV files
-├── notebooks/             # Jupyter notebooks
-├── src/                   # Python scripts
-├── images/                # Plots, diagrams
-├── requirements.txt       # Libraries needed
-├── README.md              # Project overview
-└── model.pkl              # Trained model (optional)
 
 # 🧠 Stroke Prediction Using Machine Learning
 
